@@ -1,2 +1,3 @@
 # thinking-with-you
-otra
+Un proyecto para el equipo final
+
